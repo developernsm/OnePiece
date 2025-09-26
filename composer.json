@@ -1,5 +1,5 @@
 {
-  "name": "developernsm/onepiece-sdk",
+  "name": "developernsm/onepiece",
   "description": "Una librería PHP de One Piece con personajes y recompensas",
   "type": "library",
   "license": "MIT",
