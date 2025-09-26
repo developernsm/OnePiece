@@ -1,0 +1,27 @@
+{
+  "name": "developernsm/onepiece-sdk",
+  "description": "Una librería PHP de One Piece con personajes y recompensas",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "OnePiece\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "developernsm",
+      "email": "nsmdeveloper2025@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "keywords": [
+    "onepiece",
+    "php",
+    "sdk",
+    "anime",
+    "api"
+  ]
+}
